@@ -1,5 +1,7 @@
 # RETDIA521_BCL2401_BCL2401-GroupE_RethabileDiale_JSLO3
 
+# Loom Video Link: https://www.loom.com/share/a171af6510ad4f89888c61545cebde04?sid=d0ddca58-1c1b-4da8-bd86-f5f35208cf61
+
 # Example 1:
 Is an imperative programming paradigm.
 The code specifies the exact sequence of actions that need to be performed to achieve the desired outcome.
